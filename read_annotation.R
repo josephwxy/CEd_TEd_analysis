@@ -7,6 +7,7 @@ library(plyr)
 
 txdb <- TxDb.Hsapiens.UCSC.hg19.knownGene
 
+# Annotate the reads with their corresponding genes, and statistics
 # CE
 CE <- read.table("CE_blastn.xls")
 head(CE)
