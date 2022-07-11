@@ -12,7 +12,7 @@ bioawk -c fastx '{print ">"$name; print $seq}' FBL-TE.fastq > FBL-TE.fasta
 
 # blastn - 
 # output format 6
-#-max_hsps 1 -> remain the result with the lowest evalue）
+# -max_hsps 1 -> remain the result with the lowest evalue）
 
 makeblastdb -in hg19.fa -dbtype nucl -parse_seqids -out hg19.blastdb
 
