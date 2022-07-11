@@ -100,7 +100,7 @@ FBL_TE_table <- arrange(FBL_TE_table,-freq)
 #write.csv(FBL_TE_table,"FBL_TE_genetable1.csv",row.names = F)
 write.csv(arrange(FBL_TE_gene,-Freq),"FBL_TE_gene_frequency.csv") 
 
-# Index the header line of the most frequenced genes for furthering sequence extraction
+# Index the header line of the most frequent genes for furthering sequence extraction
 CE_start <- CE_table[1:13,]$start
 CE_ID <- NULL
 for (i in CE_start){
