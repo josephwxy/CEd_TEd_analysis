@@ -3,8 +3,9 @@
 Analysis script on data analysis of gene-editing experiments in CEd and TEd manuscript.
 
 # High-throughput Sequencing Data Analysis 
-The indel analysis is basically based on CRISPREsso2: https://github.com/pinellolab/CRISPResso2
-
+The indel analysis is basically based on CRISPResso2: https://github.com/pinellolab/CRISPResso2
+CRISPResso2-HTS.sh： Script for indel analysis with CRISPResso2 on sample：lamin-IsceI-CED5/lamin-IsceI-TED6/mcherry-TED/G40/G41/G50
+ 
 # LM-PCR and Analysis
 **Input**： Fastq files
 
