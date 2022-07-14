@@ -26,7 +26,6 @@ CRISPResso -r1 /home/gaolab/Downloads/sequences/lamin-IsceI-TED6-LDL11906_L1_1.f
 --name lamin-IsceI0-TED6-corrected --output_folder /home/gaolab/Downloads/sequences/ --write_cleaned_report \
 --place_report_in_output_folder --plot_window_size 20 -w 24 -wc -3
 
-
 # mcherry-TED-WT
 CRISPResso -r1 /home/gaolab/Downloads/sequences/mcherry-TED-LDL11903_L1_1.fq.gz \
 -r2 /home/gaolab/Downloads/sequences/mcherry-TED-LDL11903_L1_2.fq.gz \
