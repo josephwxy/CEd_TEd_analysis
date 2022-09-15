@@ -1,6 +1,7 @@
 # CEd_TEd_analysis
 
-Analysis script on data analysis of gene-editing experiments in CEd and TEd manuscript.
+Analysis script on manuscript: Transcription-coupled donor DNA expression increases homologous recombination for efficient genome editing. 
+Access: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac676/6656067
 
 # High-throughput Sequencing Data Analysis 
 The indel analysis is basically based on CRISPResso2: https://github.com/pinellolab/CRISPResso2
